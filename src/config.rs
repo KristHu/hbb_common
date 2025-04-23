@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["sh.giftexco.com"];
 pub const DEFAULT_API_SERVER: &[&str] = &["sh.giftexco.com"];
-pub const RS_PUB_KEY: &str = "OeVuKk5nlHiXp+APNn0Y3pC1Iwpwn44JGqrQCsWqmBw=";
+pub const RS_PUB_KEY: &str = "X6QeEkuaqeWqvHDO+fLyqIlGN32Xhcm7Mv2Gs8A3b38=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
